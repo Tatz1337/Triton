@@ -1,0 +1,6 @@
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\publish\TRITON.exe
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\publish\TRITON.dll
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\publish\TRITON.deps.json
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\publish\TRITON.runtimeconfig.json
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\publish\TRITON.dll.config
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\publish\TRITON.pdb

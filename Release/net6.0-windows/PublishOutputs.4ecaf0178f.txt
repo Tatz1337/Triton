@@ -1,0 +1,9 @@
+C:\TRITON\TRITON.exe
+C:\TRITON\TRITON.dll
+C:\TRITON\TRITON.deps.json
+C:\TRITON\TRITON.runtimeconfig.json
+C:\TRITON\TRITON.dll.config
+C:\TRITON\TRITON.pdb
+C:\TRITON\YamlDotNet.dll
+C:\TRITON\YamlDotNet.pdb
+C:\TRITON\YamlDotNet.xml

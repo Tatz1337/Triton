@@ -1,0 +1,74 @@
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\Release\net6.0-windows\TRITON.exe
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\Release\net6.0-windows\TRITON.dll.config
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\Release\net6.0-windows\TRITON.deps.json
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\Release\net6.0-windows\TRITON.runtimeconfig.json
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\Release\net6.0-windows\TRITON.dll
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\Release\net6.0-windows\TRITON.pdb
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\Release\net6.0-windows\YamlDotNet.dll
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\Release\net6.0-windows\YamlDotNet.pdb
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\bin\Release\net6.0-windows\YamlDotNet.xml
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\Triton.vbproj.AssemblyReference.cache
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.biome_manager.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.changelog.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.Color_Form.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.council_sim.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.Faction_Sim.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.fleet_manager.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.Form1.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.gdp_calc.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.mapBeta.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.Resources.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.res_man.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.Res_QA.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.Ros.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.Ship_DB.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.Terrain_Sim.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.TTMC.resources
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\Triton.vbproj.GenerateResource.cache
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\Triton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\Triton.AssemblyInfoInputs.cache
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\Triton.AssemblyInfo.vb
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\Triton.vbproj.CoreCompileInputs.cache
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\Triton.vbproj.CopyComplete
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.dll
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\refint\TRITON.dll
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\TRITON.pdb
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\Triton.genruntimeconfig.cache
+C:\Users\dracc\source\repos\Racc's Worldbuilding Tool\Racc's Worldbuilding Tool\obj\Release\net6.0-windows\ref\TRITON.dll
+C:\Users\dracc\source\repos\Triton Source\Triton\bin\Release\net6.0-windows\TRITON.exe
+C:\Users\dracc\source\repos\Triton Source\Triton\bin\Release\net6.0-windows\TRITON.dll.config
+C:\Users\dracc\source\repos\Triton Source\Triton\bin\Release\net6.0-windows\TRITON.deps.json
+C:\Users\dracc\source\repos\Triton Source\Triton\bin\Release\net6.0-windows\TRITON.runtimeconfig.json
+C:\Users\dracc\source\repos\Triton Source\Triton\bin\Release\net6.0-windows\TRITON.dll
+C:\Users\dracc\source\repos\Triton Source\Triton\bin\Release\net6.0-windows\TRITON.pdb
+C:\Users\dracc\source\repos\Triton Source\Triton\bin\Release\net6.0-windows\YamlDotNet.dll
+C:\Users\dracc\source\repos\Triton Source\Triton\bin\Release\net6.0-windows\YamlDotNet.pdb
+C:\Users\dracc\source\repos\Triton Source\Triton\bin\Release\net6.0-windows\YamlDotNet.xml
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\Triton.vbproj.AssemblyReference.cache
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.biome_manager.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.changelog.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.Color_Form.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.council_sim.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.Faction_Sim.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.fleet_manager.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.Form1.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.gdp_calc.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.mapBeta.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.Resources.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.res_man.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.Res_QA.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.Ros.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.Ship_DB.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.Terrain_Sim.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.TTMC.resources
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\Triton.vbproj.GenerateResource.cache
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\Triton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\Triton.AssemblyInfoInputs.cache
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\Triton.AssemblyInfo.vb
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\Triton.vbproj.CoreCompileInputs.cache
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\Triton.vbproj.CopyComplete
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.dll
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\refint\TRITON.dll
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\TRITON.pdb
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\Triton.genruntimeconfig.cache
+C:\Users\dracc\source\repos\Triton Source\Triton\obj\Release\net6.0-windows\ref\TRITON.dll
