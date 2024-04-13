@@ -1,0 +1,170 @@
+Time: 4/10/2024 12:14:08 PM LOG: TRITON Started
+Time: 4/10/2024 12:16:38 PM LOG: TRITON Started
+Time: 4/10/2024 12:16:40 PM LOG: Biome Manager Started
+Time: 4/10/2024 12:16:42 PM LOG: Fleet Manager Started
+Time: 4/10/2024 12:16:46 PM LOG: GDP Calculator Started
+Time: 4/10/2024 12:16:49 PM LOG: Council Simulator Started
+Time: 4/10/2024 12:16:57 PM LOG: Resource Manager Started
+Time: 4/10/2024 12:17:01 PM LOG: Ship Parts Manager Started
+Time: 4/10/2024 12:17:07 PM LOG: Terrain Simulator Started
+Time: 4/10/2024 12:17:10 PM LOG: Faction Simulator Started
+Time: 4/10/2024 12:17:11 PM LOG: Changelog Started
+Time: 4/10/2024 12:17:13 PM LOG: Credits Shown
+Time: 4/10/2024 12:18:26 PM LOG: TRITON Started
+Time: 4/10/2024 12:18:28 PM LOG: Biomes XML READ
+Time: 4/10/2024 12:18:28 PM LOG: Biome Manager Started
+Time: 4/10/2024 12:18:32 PM LOG: Biomes XML READ
+Time: 4/10/2024 12:18:33 PM LOG: Biomes XML READ
+Time: 4/10/2024 12:18:53 PM LOG: TRITON Started
+Time: 4/10/2024 12:18:55 PM LOG: Biomes XML READ
+Time: 4/10/2024 12:18:55 PM LOG: Biome Manager Started
+Time: 4/10/2024 12:19:55 PM LOG: TRITON Started
+Time: 4/10/2024 12:19:56 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 12:27:30 PM LOG: TRITON Started
+Time: 4/10/2024 12:27:34 PM LOG: Resources XML READ
+Time: 4/10/2024 12:27:34 PM LOG: Resource Manager Started
+Time: 4/10/2024 12:27:39 PM LOG: Resources XML READ
+Time: 4/10/2024 12:27:42 PM LOG: Resources XML READ
+Time: 4/10/2024 12:27:46 PM LOG: Biomes XML READ
+Time: 4/10/2024 12:27:46 PM LOG: Biome Manager Started
+Time: 4/10/2024 12:27:48 PM LOG: Resources XML READ
+Time: 4/10/2024 12:27:48 PM LOG: Resource Manager Softloaded
+Time: 4/10/2024 12:27:53 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 4:15:01 PM LOG: TRITON Started
+Time: 4/10/2024 4:15:39 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 4:16:03 PM LOG: TRITON Started
+Time: 4/10/2024 4:16:46 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 4:16:53 PM LOG: TRITON Started
+Time: 4/10/2024 4:18:53 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 4:19:42 PM LOG: TRITON Started
+Time: 4/10/2024 4:20:37 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 4:21:25 PM LOG: TRITON Started
+Time: 4/10/2024 4:21:41 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 4:22:50 PM LOG: TRITON Started
+Time: 4/10/2024 4:23:14 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 4:23:45 PM LOG: TRITON Started
+Time: 4/10/2024 4:39:55 PM LOG: TRITON Started
+Time: 4/10/2024 4:40:12 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 5:20:10 PM LOG: TRITON Started
+Time: 4/10/2024 5:20:45 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 5:28:03 PM LOG: TRITON Started
+Time: 4/10/2024 5:28:05 PM LOG: Council Simulator Started
+Time: 4/10/2024 5:28:23 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 5:28:33 PM LOG: TRITON Started
+Time: 4/10/2024 5:28:35 PM LOG: Council Simulator Started
+Time: 4/10/2024 5:28:49 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 5:29:25 PM LOG: TRITON Started
+Time: 4/10/2024 5:29:26 PM LOG: Council Simulator Started
+Time: 4/10/2024 5:29:34 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 5:29:45 PM LOG: TRITON Started
+Time: 4/10/2024 5:30:40 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 5:30:46 PM LOG: TRITON Started
+Time: 4/10/2024 5:31:17 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 5:43:43 PM LOG: TRITON Started
+Time: 4/10/2024 5:43:45 PM LOG: Council Simulator Started
+Time: 4/10/2024 5:43:55 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 5:48:14 PM LOG: TRITON Started
+Time: 4/10/2024 5:48:16 PM LOG: Council Simulator Started
+Time: 4/10/2024 5:48:22 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 5:48:41 PM LOG: TRITON Started
+Time: 4/10/2024 5:48:43 PM LOG: Council Simulator Started
+Time: 4/10/2024 5:49:19 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 5:53:45 PM LOG: TRITON Started
+Time: 4/10/2024 5:55:14 PM LOG: Council Simulator Started
+Time: 4/10/2024 5:58:54 PM LOG: TRITON Started
+Time: 4/10/2024 5:58:55 PM LOG: Biomes XML READ
+Time: 4/10/2024 5:58:55 PM LOG: Biome Manager Started
+Time: 4/10/2024 5:58:58 PM LOG: Council Simulator Started
+Time: 4/10/2024 5:59:45 PM LOG: TRITON Started
+Time: 4/10/2024 5:59:47 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:00:54 PM LOG: TRITON Started
+Time: 4/10/2024 6:00:56 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:01:02 PM LOG: TRITON Started
+Time: 4/10/2024 6:01:10 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:01:22 PM LOG: TRITON Started
+Time: 4/10/2024 6:01:26 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:02:45 PM LOG: TRITON Started
+Time: 4/10/2024 6:02:47 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:03:41 PM LOG: TRITON Started
+Time: 4/10/2024 6:03:43 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:03:52 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:06:50 PM LOG: TRITON Started
+Time: 4/10/2024 6:06:52 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:07:05 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:08:17 PM LOG: TRITON Started
+Time: 4/10/2024 6:08:19 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:10:59 PM LOG: TRITON Started
+Time: 4/10/2024 6:11:21 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:11:37 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:12:21 PM LOG: TRITON Started
+Time: 4/10/2024 6:12:23 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:13:04 PM LOG: TRITON Started
+Time: 4/10/2024 6:13:05 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:13:37 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:17:11 PM LOG: TRITON Started
+Time: 4/10/2024 6:17:12 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:17:58 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:21:52 PM LOG: TRITON Started
+Time: 4/10/2024 6:21:53 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:22:15 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:22:31 PM LOG: TRITON Started
+Time: 4/10/2024 6:22:32 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:22:41 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:22:50 PM LOG: TRITON Started
+Time: 4/10/2024 6:22:52 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:23:29 PM LOG: TRITON Started
+Time: 4/10/2024 6:23:31 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:35:15 PM LOG: TRITON Started
+Time: 4/10/2024 6:35:16 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:36:05 PM LOG: TRITON Started
+Time: 4/10/2024 6:36:08 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:36:37 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:39:00 PM LOG: TRITON Started
+Time: 4/10/2024 6:39:01 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:39:45 PM LOG: TRITON Started
+Time: 4/10/2024 6:39:47 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:39:55 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:45:19 PM LOG: TRITON Started
+Time: 4/10/2024 6:45:23 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:45:46 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:46:25 PM LOG: TRITON Started
+Time: 4/10/2024 6:46:28 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:47:14 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:48:28 PM LOG: TRITON Started
+Time: 4/10/2024 6:48:30 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:48:39 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:49:27 PM LOG: TRITON Started
+Time: 4/10/2024 6:49:29 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:49:57 PM LOG: TRITON Started
+Time: 4/10/2024 6:49:58 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:50:25 PM LOG: TRITON Started
+Time: 4/10/2024 6:50:28 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:52:16 PM LOG: TRITON Started
+Time: 4/10/2024 6:52:18 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:53:04 PM LOG: TRITON Started
+Time: 4/10/2024 6:53:05 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:55:04 PM LOG: TRITON Started
+Time: 4/10/2024 6:55:05 PM LOG: Council Simulator Started
+Time: 4/10/2024 6:55:14 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 6:57:03 PM LOG: TRITON Started
+Time: 4/10/2024 6:57:05 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 7:36:22 PM LOG: TRITON Started
+Time: 4/10/2024 7:36:24 PM LOG: Council Simulator Started
+Time: 4/10/2024 7:37:02 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 7:37:39 PM LOG: TRITON Started
+Time: 4/10/2024 7:37:46 PM LOG: Terrain Simulator Started
+Time: 4/10/2024 7:39:10 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 7:39:39 PM LOG: TRITON Started
+Time: 4/10/2024 7:55:19 PM LOG: TRITON Started
+Time: 4/10/2024 7:55:49 PM LOG: Triton Exiting Properly
+Time: 4/10/2024 7:56:30 PM LOG: TRITON Started
+Time: 4/10/2024 7:56:32 PM LOG: Triton Exiting Properly
+Time: 4/13/2024 12:00:09 PM LOG: TRITON Started
+Time: 4/13/2024 12:00:21 PM LOG: Credits Shown
+Time: 4/13/2024 12:00:27 PM LOG: Biomes XML READ
+Time: 4/13/2024 12:00:27 PM LOG: Biome Manager Started
+Time: 4/13/2024 12:00:32 PM LOG: Resources XML READ
+Time: 4/13/2024 12:00:32 PM LOG: Resource Manager Softloaded
+Time: 4/13/2024 12:00:46 PM LOG: Triton Exiting Properly
+Time: 4/13/2024 12:00:58 PM LOG: TRITON Started
+Time: 4/13/2024 12:01:05 PM LOG: Triton Exiting Properly

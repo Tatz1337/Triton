@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<data>
+  <ships>
+    <Ship.Name>Leyte Gulf</Ship.Name>
+    <Hull.Number>1</Hull.Number>
+    <Ship.Class>Guided Missle Cruiser</Ship.Class>
+    <Ship.Length>565 Feet</Ship.Length>
+    <Ship.Width>55 Feet</Ship.Width>
+    <Ship.Crew.Size>350</Ship.Crew.Size>
+    <Ship.Captain.Name>Racc</Ship.Captain.Name>
+    <Ship.Fleet>4th Fleet</Ship.Fleet>
+    <Ship.Squadron>None</Ship.Squadron>
+  </ships>
+  <ships>
+    <Ship.Name>Leyte Gulf</Ship.Name>
+    <Hull.Number>1</Hull.Number>
+    <Ship.Class>Guided Missle Cruiser</Ship.Class>
+    <Ship.Length>565 Feet</Ship.Length>
+    <Ship.Width>55 Feet</Ship.Width>
+    <Ship.Crew.Size>350</Ship.Crew.Size>
+    <Ship.Captain.Name>Racc</Ship.Captain.Name>
+    <Ship.Fleet>4th Fleet</Ship.Fleet>
+    <Ship.Squadron>None</Ship.Squadron>
+  </ships>
+</data>

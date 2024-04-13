@@ -1,0 +1,206 @@
+data:
+  biome:
+  - Animals: Deer
+    Biome.Name: Plains
+    Crops: Apples
+    Level: '7'
+    Metals: Iron
+    Plants: Daisies
+    Woods: Oak, Birch
+  - Animals: Deer
+    Biome.Name: Forest
+    Crops: 'Yes'
+    Level: '1'
+    Metals: Iron
+    Plants: 'Yes'
+    Woods: 'Yes'
+  - Animals: Fox, Wolf
+    Biome.Name: Tundra
+    Crops: 'No'
+    Level: '1'
+    Metals: Iron
+    Plants: 'Yes'
+    Woods: 'Yes'
+  - Animals: 'Yes'
+    Biome.Name: Icelands
+    Crops: 'No'
+    Level: '1'
+    Metals: 'No'
+    Plants: 'Yes'
+    Woods: 'Yes'
+  - Animals: 'Yes'
+    Biome.Name: Swamp
+    Crops: 'Yes'
+    Level: '1'
+    Metals: 'No'
+    Plants: 'Yes'
+    Woods: 'Yes'
+  - Animals: 'Yes'
+    Biome.Name: Taiga
+    Crops: 'Yes'
+    Level: '1'
+    Metals: 'No'
+    Plants: 'Yes'
+    Woods: 'Yes'
+  - Animals: 'Yes'
+    Biome.Name: Savannah
+    Crops: 'Yes'
+    Level: '1'
+    Metals: Iron
+    Plants: 'Yes'
+    Woods: 'Yes'
+  - Animals: 'Yes'
+    Biome.Name: Mountains
+    Crops: 'Yes'
+    Level: '1'
+    Metals: 'Yes'
+    Plants: 'Yes'
+    Woods: 'Yes'
+  - Animals: 'No'
+    Biome.Name: Ice Mountains
+    Crops: 'No'
+    Level: '1'
+    Metals: 'Yes'
+    Plants: 'No'
+    Woods: 'No'
+  - Animals: 'No'
+    Biome.Name: Wasteland
+    Crops: 'No'
+    Level: '1'
+    Metals: 'No'
+    Plants: 'No'
+    Woods: 'No'
+  - Animals: 'Yes'
+    Biome.Name: Beach
+    Crops: 'Yes'
+    Level: '1'
+    Metals: 'No'
+    Plants: 'Yes'
+    Woods: 'No'
+  - Animals: 'Yes'
+    Biome.Name: Hot Desert
+    Crops: 'Yes'
+    Level: '1'
+    Metals: 'No'
+    Plants: 'Yes'
+    Woods: 'No'
+  - Animals: 'Yes'
+    Biome.Name: Cold Desert
+    Crops: 'Yes'
+    Level: '1'
+    Metals: 'No'
+    Plants: 'Yes'
+    Woods: 'No'
+  - Animals: 'Yes'
+    Biome.Name: Marine
+    Crops: 'No'
+    Level: '1'
+    Metals: 'No'
+    Plants: 'Yes'
+    Woods: 'No'
+  - Animals: 'Yes'
+    Biome.Name: Wetland
+    Crops: 'Yes'
+    Level: '1'
+    Metals: 'No'
+    Plants: 'Yes'
+    Woods: 'No'
+  - Animals: 'Yes'
+    Biome.Name: Grassland
+    Crops: 'Yes'
+    Level: '1'
+    Metals: 'Yes'
+    Plants: 'Yes'
+    Woods: 'Yes'
+  - Animals: 'Yes'
+    Biome.Name: Rainforest
+    Crops: 'Yes'
+    Level: '1'
+    Metals: 'No'
+    Plants: 'Yes'
+    Woods: 'Yes'
+  - Animals: 'Yes'
+    Biome.Name: Hot Spring
+    Crops: 'Yes'
+    Level: '1'
+    Metals: 'No'
+    Plants: Some
+    Woods: 'Yes'
+  - Animals: 'No'
+    Biome.Name: Salt Mine
+    Crops: 'No'
+    Level: '1'
+    Metals: 'No'
+    Minerals: Salt
+    Plants: 'No'
+    Woods: 'No'
+  - Animals: 'Yes'
+    Biome.Name: Biome
+    Crops: 'Yes'
+    Level: '1'
+    Metals: 'Yes'
+    Plants: 'Yes'
+    Woods: 'Yes'
+  - Animals: "Empty"  
+    Biome.Name: Tropical 
+    Crops: "Empty" 
+    Level: "Empty" 
+    Metals:  "Empty" 
+    Plants:  "Empty" 
+    Woods: "Empty" 
+  - Animals: "Empty"  
+    Biome.Name: Rainforest 
+    Crops: "Empty" 
+    Level: "Empty" 
+    Metals:  "Empty" 
+    Plants:  "Empty" 
+    Woods: "Empty" 
+  - Animals: "Empty"  
+    Biome.Name: Thorn 
+    Crops: "Empty" 
+    Level: "Empty" 
+    Metals:  "Empty" 
+    Plants:  "Empty" 
+    Woods: "Empty" 
+  - Animals: "Empty"  
+    Biome.Name: Forest 
+    Crops: "Empty" 
+    Level: "Empty" 
+    Metals:  "Empty" 
+    Plants:  "Empty" 
+    Woods: "Empty" 
+  - Animals: "Empty"  
+    Biome.Name: Bog 
+    Crops: "Empty" 
+    Level: "Empty" 
+    Metals:  "Empty" 
+    Plants:  "Empty" 
+    Woods: "Empty" 
+  - Animals: "Empty"  
+    Biome.Name: Shrubland 
+    Crops: "Empty" 
+    Level: "Empty" 
+    Metals:  "Empty" 
+    Plants:  "Empty" 
+    Woods: "Empty" 
+  - Animals: "Empty"  
+    Biome.Name: Swamp 
+    Crops: "Empty" 
+    Level: "Empty" 
+    Metals:  "Empty" 
+    Plants:  "Empty" 
+    Woods: "Empty" 
+  - Animals: "Empty"  
+    Biome.Name: Salt 
+    Crops: "Empty" 
+    Level: "Empty" 
+    Metals:  "Empty" 
+    Plants:  "Empty" 
+    Woods: "Empty" 
+  - Animals: "Empty"  
+    Biome.Name: Marsh 
+    Crops: "Empty" 
+    Level: "Empty" 
+    Metals:  "Empty" 
+    Plants:  "Empty" 
+    Woods: "Empty" 

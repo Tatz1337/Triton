@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<data>
+  <part>
+    <Part.Name>Destroyer Hull</Part.Name>
+    <Part.Type>Steel</Part.Type>
+  </part>
+  <part>
+  <Part.Name>5" Gun</Part.Name>
+  <Part.Type>Fiberglass</Part.Type>
+  </part>
+</data>
